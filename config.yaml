@@ -1,0 +1,6 @@
+application:
+  name: InventoryApp
+  version: '2.0'
+database:
+  host: production-db-server
+  port: 3306
